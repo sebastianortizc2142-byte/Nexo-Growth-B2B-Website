@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Nexo Growth"
+description = "A premium B2B deal origination website with validated buyer and provider intake, secure administration, and opportunity tracking."
+version = "1.0.0"
+id = "artifacts/nexo-growth"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18373
+
+[services.development]
+run = "pnpm --filter @workspace/nexo-growth run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nexo-growth", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nexo-growth/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18373"
+BASE_PATH = "/"

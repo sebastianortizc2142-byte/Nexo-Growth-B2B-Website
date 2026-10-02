@@ -1,0 +1,507 @@
+Quiero que construyas y dejes completamente funcional y lista para producción la landing page de mi empresa B2B llamada Nexo Growth.
+
+DOMINIO:
+https://nexogrwth.com
+
+OBJETIVO:
+Nexo Growth es una firma de B2B Deal Origination.
+
+Nuestro modelo:
+1. Identificamos señales empresariales que indican una posible necesidad de compra:
+   - expansiones
+   - nuevos proyectos
+   - inversiones
+   - nuevas plantas
+   - aumento de capacidad
+   - nuevos centros de distribución
+   - nuevos mercados
+   - compras de maquinaria
+   - necesidades tecnológicas
+   - logística
+   - automatización
+   - otros proyectos empresariales
+2. Validamos la oportunidad.
+3. Identificamos proveedores capaces de atenderla.
+4. Conectamos comprador y proveedor.
+5. Nexo Growth trabaja principalmente con proveedores bajo un modelo success-fee.
+6. El proveedor paga únicamente cuando la oportunidad genera revenue.
+7. Modelo inicial: 5% del revenue efectivamente generado/recibido por el proveedor.
+8. La atribución de la oportunidad será de 6 meses.
+
+IMPORTANTE:
+No quiero que la página parezca un marketplace genérico.
+No quiero que parezca una agencia de marketing.
+No quiero que parezca una startup exageradamente tecnológica.
+Debe parecer una firma B2B seria, elegante, sobria y premium, similar en simplicidad y profesionalismo visual a firmas de consultoría como McKinsey, Bain o firmas de investment banking.
+
+DISEÑO:
+- Minimalista
+- Premium
+- Profesional
+- Mucho espacio en blanco
+- Fondo blanco/off-white
+- Azul navy oscuro
+- Gris azulado
+- Tipografía serif elegante para el logo/títulos principales
+- Sans-serif limpia para textos
+- Nada de gradientes llamativos
+- Nada de emojis
+- Nada de stock photos
+- Animaciones muy sutiles
+- Responsive perfecto en desktop, tablet y móvil
+- Header limpio
+- El logo debe decir exactamente:
+
+Nexo Growth
+
+Debajo:
+B2B DEAL ORIGINATION
+
+HERO:
+
+NEXO GROWTH
+
+B2B opportunities.
+Real connections.
+
+Texto:
+
+"Identificamos oportunidades comerciales dentro de empresas y las conectamos con proveedores capaces de convertirlas en negocio."
+
+Botones:
+
+"TENGO UNA NECESIDAD"
+
+"OFREZCO UNA SOLUCIÓN"
+
+Un pequeño texto debajo:
+
+"Success-based B2B deal origination."
+
+SECCIÓN "CÓMO FUNCIONA":
+
+Título:
+"From signal to opportunity."
+
+Tres pasos:
+
+01 — IDENTIFICAMOS
+"Analizamos señales empresariales que pueden indicar una necesidad comercial real."
+
+02 — VALIDAMOS
+"Investigamos la empresa, el proyecto, la necesidad y el posible encaje comercial."
+
+03 — CONECTAMOS
+"Facilitamos la conexión entre la empresa compradora y el proveedor adecuado."
+
+SECCIÓN PARA COMPRADORES:
+
+Título:
+"¿Tu empresa está buscando una solución?"
+
+Texto:
+
+"Cuéntanos qué necesitas. Analizaremos tu requerimiento y buscaremos proveedores que puedan atenderlo."
+
+Botón:
+"SOY COMPRADOR"
+
+Al hacer click debe abrir un formulario modal o una sección dedicada.
+
+FORMULARIO COMPRADOR:
+
+Título:
+"Cuéntanos qué estás buscando"
+
+Campos:
+
+- Nombre
+- Cargo
+- Empresa
+- Sitio web de la empresa
+- Email corporativo
+- WhatsApp / teléfono
+- Industria
+- País
+- Ciudad
+- ¿Qué producto, servicio o solución estás buscando?
+- Describe brevemente la necesidad
+- ¿Para cuándo necesitas resolverla?
+  Opciones:
+  "Inmediatamente"
+  "1–3 meses"
+  "3–6 meses"
+  "Más de 6 meses"
+- Rango aproximado del proyecto:
+  "Menos de COP $50M"
+  "COP $50M–$100M"
+  "COP $100M–$500M"
+  "COP $500M–$1.000M"
+  "Más de COP $1.000M"
+  "No definido"
+- ¿Cómo conociste Nexo Growth?
+
+Checkbox obligatorio:
+
+"Autorizo a Nexo Growth a utilizar la información suministrada para analizar mi solicitud y contactarme."
+
+Botón:
+"ENVIAR SOLICITUD"
+
+Después de enviar:
+
+Mostrar:
+
+"Solicitud recibida."
+
+"Analizaremos la información y nos pondremos en contacto contigo si identificamos un posible encaje."
+
+No mostrar datos sensibles públicamente.
+
+SECCIÓN PARA PROVEEDORES:
+
+Título:
+"¿Tu empresa vende a otras empresas?"
+
+Texto:
+
+"Nexo Growth identifica oportunidades B2B que pueden tener encaje con las soluciones que ofrece tu empresa."
+
+Botón:
+"SOY PROVEEDOR"
+
+FORMULARIO PROVEEDOR:
+
+Título:
+"Cuéntanos qué ofrece tu empresa"
+
+Campos:
+
+- Nombre
+- Cargo
+- Empresa
+- Sitio web
+- Email corporativo
+- WhatsApp / teléfono
+- Industria
+- País
+- Ciudades/países donde opera
+- Producto o servicio principal
+- ¿Qué problema empresarial resuelve?
+- Sectores a los que vende
+- Tamaño aproximado de sus clientes
+- Ticket promedio de una operación
+- ¿Qué tipo de empresas busca como clientes?
+- ¿Aceptaría trabajar bajo un modelo success-fee?
+  Opciones:
+  "Sí"
+  "Quiero conocer el modelo"
+  "No"
+
+Si selecciona "Sí" o "Quiero conocer el modelo", mostrar:
+
+"El modelo inicial de Nexo Growth contempla una comisión del 5% sobre el revenue efectivamente generado por oportunidades atribuidas a Nexo Growth, con una ventana de atribución de 6 meses."
+
+Checkbox obligatorio:
+
+"Autorizo a Nexo Growth a utilizar la información suministrada para evaluar oportunidades comerciales y contactarme."
+
+Botón:
+"REGISTRAR MI EMPRESA"
+
+Después de enviar mostrar:
+
+"Empresa registrada."
+
+"Revisaremos la información y te contactaremos cuando identifiquemos una oportunidad con posible encaje."
+
+SECCIÓN "PARA EMPRESAS":
+
+Dos columnas:
+
+COMPRADORES
+
+"Encuentra proveedores para necesidades concretas."
+
+Botón:
+"PLANTEAR UNA NECESIDAD"
+
+PROVEEDORES
+
+"Accede a oportunidades comerciales relevantes para tu empresa."
+
+Botón:
+"REGISTRAR MI EMPRESA"
+
+SECCIÓN DE POSICIONAMIENTO:
+
+Título:
+
+"We don't sell leads.
+We identify opportunities."
+
+Texto:
+
+"Nexo Growth no trabaja con bases de datos genéricas ni contactos masivos. Nuestro objetivo es identificar señales empresariales concretas, validar su relevancia y encontrar el proveedor adecuado para cada oportunidad."
+
+No hacer afirmaciones de que tenemos miles de empresas, cientos de clientes o resultados que todavía no existen.
+
+SECCIÓN FINAL:
+
+Título:
+
+"Your next opportunity may already be taking shape."
+
+Texto:
+
+"Cuéntanos qué estás buscando o qué solución ofrece tu empresa."
+
+Botones:
+
+"TENGO UNA NECESIDAD"
+
+"OFREZCO UNA SOLUCIÓN"
+
+FOOTER:
+
+Nexo Growth
+
+B2B DEAL ORIGINATION
+
+Email:
+[CREAR UNA VARIABLE PARA QUE PUEDA CAMBIARLO FÁCILMENTE]
+
+Links:
+Inicio
+Cómo funciona
+Compradores
+Proveedores
+Contacto
+Privacy Policy
+
+No incluir redes sociales hasta que yo proporcione las cuentas oficiales.
+
+FUNCIONALIDAD:
+
+Necesito que los formularios sean REALES y funcionen.
+
+No quiero formularios falsos que solamente hagan console.log.
+
+Cada envío debe:
+1. Validar todos los campos obligatorios.
+2. Mostrar errores claros.
+3. Enviar los datos al backend.
+4. Guardar cada submission en una base de datos.
+5. Guardar fecha y hora.
+6. Guardar si es BUYER o PROVIDER.
+7. Mostrar página/mensaje de éxito.
+8. Evitar submissions duplicados obvios.
+9. Proteger los endpoints contra spam básico.
+10. No exponer las credenciales de la base de datos en frontend.
+
+BASE DE DATOS:
+
+Usa PostgreSQL.
+
+Crear una tabla submissions con al menos:
+
+id
+type
+name
+job_title
+company
+website
+email
+phone
+industry
+country
+city
+description
+timeline
+budget
+product_service
+problem_solved
+target_industries
+average_ticket
+ideal_customer
+success_fee_interest
+source
+created_at
+
+Puedes crear tablas separadas buyer_submissions y provider_submissions si consideras que es mejor arquitectura.
+
+ADMIN:
+
+Crear una ruta protegida:
+
+/admin
+
+Debe existir un dashboard sencillo donde pueda ver:
+
+- Total submissions
+- Buyers
+- Providers
+- Últimas solicitudes
+- Fecha
+- Empresa
+- Tipo
+- Estado
+
+Estados:
+
+NEW
+CONTACTED
+QUALIFIED
+MATCHED
+CLOSED
+REJECTED
+
+Debe poder cambiar el estado de cada submission.
+
+IMPORTANTE:
+El dashboard debe estar protegido con autenticación y las credenciales deben estar en environment variables.
+
+EMAIL:
+
+Cuando alguien complete un formulario:
+
+1. Guardar submission en PostgreSQL.
+2. Enviar una notificación al email de Nexo Growth.
+3. Enviar un email de confirmación al usuario.
+
+Usa variables de entorno para:
+
+DATABASE_URL
+ADMIN_EMAIL
+SMTP_HOST
+SMTP_PORT
+SMTP_USER
+SMTP_PASSWORD
+ADMIN_PASSWORD
+SESSION_SECRET
+
+No hardcodear ninguna contraseña.
+
+Si el entorno de Replit ofrece una forma nativa segura de gestionar secrets, úsala.
+
+SEO:
+
+Configurar:
+
+Title:
+"Nexo Growth | B2B Deal Origination"
+
+Description:
+"Nexo Growth identifies qualified B2B opportunities and connects companies with the right providers."
+
+Open Graph tags.
+Favicon.
+Canonical URL:
+https://nexogrwth.com
+
+Crear robots.txt.
+Crear sitemap.xml.
+
+ANALYTICS:
+
+Preparar integración para Google Analytics usando una variable:
+
+GA_MEASUREMENT_ID
+
+Si está vacía, no cargar Analytics.
+
+TRACKING:
+
+Registrar eventos:
+
+buyer_form_open
+buyer_form_submit
+provider_form_open
+provider_form_submit
+cta_click
+
+SEGURIDAD:
+
+- Validación frontend y backend.
+- Sanitización de inputs.
+- Rate limiting básico.
+- Protección contra spam.
+- No mostrar errores internos al usuario.
+- No exponer DATABASE_URL.
+- No exponer ADMIN_PASSWORD.
+- Usar HTTPS cuando esté publicado.
+- Cookies seguras para sesiones.
+- Protección básica contra CSRF si corresponde a la arquitectura.
+
+TECNOLOGÍA:
+
+Puedes elegir el stack más adecuado, pero quiero algo fácil de mantener.
+
+Preferencia:
+
+Next.js
+TypeScript
+Tailwind CSS
+PostgreSQL
+Prisma
+
+Si Replit recomienda una arquitectura equivalente más estable, puedes usarla.
+
+ESTRUCTURA:
+
+Crear código limpio y organizado.
+
+Separar:
+
+components
+app/pages
+api/routes
+database
+lib
+auth
+styles
+
+Crear README.md con:
+
+1. Cómo ejecutar localmente.
+2. Variables de entorno necesarias.
+3. Cómo configurar PostgreSQL.
+4. Cómo configurar email.
+5. Cómo acceder al admin.
+6. Cómo hacer deploy.
+7. Cómo conectar el dominio nexogrwth.com.
+
+DEPLOY:
+
+La aplicación debe quedar lista para producción en Replit.
+
+Configurar correctamente:
+
+- build
+- start
+- environment variables
+- production database
+- HTTPS
+- dominio personalizado
+
+NO QUIERO SOLO EL CÓDIGO.
+
+Quiero que construyas la aplicación completa dentro del proyecto de Replit, ejecutes la aplicación, pruebes los formularios, corrijas errores y me dejes el proyecto funcionando.
+
+Antes de terminar:
+
+1. Ejecuta el proyecto.
+2. Comprueba que la homepage carga.
+3. Comprueba que ambos formularios funcionan.
+4. Comprueba validaciones.
+5. Comprueba que las submissions llegan al backend.
+6. Comprueba la conexión a PostgreSQL.
+7. Comprueba que /admin está protegido.
+8. Comprueba responsive.
+9. Corrige cualquier error.
+10. Dime exactamente qué variables de entorno tengo que configurar.
+11. Dime exactamente qué pasos tengo que seguir para conectar nexogrwth.com.
+
+No inventes información de la empresa.
+
+La marca debe sentirse como una firma B2B seria y profesional, no como una startup genérica.
